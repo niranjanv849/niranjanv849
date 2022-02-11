@@ -34,6 +34,6 @@
 
 ## 🚀 Reach me:
 
-<a href="mailto:niranjanv849@gmail.com">![niranjanv849@gmail.com](https://cdn-icons-png.flaticon.com/512/281/281769.png)</a> 
+<a href="mailto:niranjanv849@gmail.com" style="height:20px;width:20px;">![niranjanv849@gmail.com](https://cdn-icons-png.flaticon.com/512/281/281769.png)</a> 
 <a href="https://www.linkedin.com/in/niranjanv849/">![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)</a> 
-<a href="https://t.me/niranjanv849">![Telegram](https://banner2.cleanpng.com/20180605/ef/kisspng-telegram-encapsulated-postscript-transfer-5b170605610126.3859681215282355253974.jpg)</a>
+<a href="https://t.me/niranjanv849">![Telegram](https://i.ibb.co/xCpMvXQ/Telegram-icon-on-transparent-background-PNG-removebg-preview.png)</a>
