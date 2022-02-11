@@ -34,6 +34,10 @@
 
 ## 🚀 Reach me:
 
-<a href="mailto:niranjanv849@gmail.com">![niranjanv849@gmail.com](https://cdn-icons-png.flaticon.com/512/281/281769.png)</a> 
-<a href="https://www.linkedin.com/in/niranjanv849/">![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)</a> 
-<a href="https://t.me/niranjanv849">![Telegram](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/telegram-512.png)</a>
+<p align="center">
+<a href="https://www.niranjan-v.web.app"><img src="https://img.shields.io/badge/-niranjan-v.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/niranjanv849"><img src="https://img.shields.io/badge/-niranjanv849-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:niranjanv849@gmail.com"><img src="https://img.shields.io/badge/-niranjanv849@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
