@@ -16,7 +16,7 @@
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://i.ibb.co/10HwMKW/download.png">
+<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://i.ibb.co/pKq7CXS/download-removebg-preview.png">
 
 <br/>
 ### 📊 GitHub Stats
