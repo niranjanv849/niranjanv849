@@ -19,10 +19,10 @@
 <img align="left" height="32px" width="50px" alt="GitHub logo" src="https://i.ibb.co/pKq7CXS/download-removebg-preview.png">
 
 <br/>
+<br/>
 
 
 ### 🌵 Github Stats:
 
 ![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanv849&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=niranjanv849)](https://github.com/ryo-ma/github-profile-trophy)
