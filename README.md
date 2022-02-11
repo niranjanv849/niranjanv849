@@ -21,6 +21,8 @@
 <br/>
 
 
-### 📊 GitHub Stats
+### 🌵 Github Stats:
 
-![Niranjan's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
+![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanv849&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=niranjanv849)](https://github.com/ryo-ma/github-profile-trophy)
