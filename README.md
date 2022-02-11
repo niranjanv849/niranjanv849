@@ -38,6 +38,6 @@
 <a href="https://www.niranjan-v.web.app"><img src="https://img.shields.io/badge/-niranjan-v.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/niranjanv849"><img src="https://img.shields.io/badge/-niranjanv849-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:niranjanv849@gmail.com"><img src="https://img.shields.io/badge/-niranjanv849@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/niranjanv849"><img src="https://img.shields.io/badge/-@niranjanv849-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
