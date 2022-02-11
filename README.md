@@ -19,6 +19,8 @@
 <img align="left" height="32px" width="50px" alt="GitHub logo" src="https://i.ibb.co/pKq7CXS/download-removebg-preview.png">
 
 <br/>
+
+
 ### 📊 GitHub Stats
 
-![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
+![Niranjan's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
