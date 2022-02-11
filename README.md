@@ -27,6 +27,5 @@
 ![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanv849&theme=radical)](https://git.io/streak-stats) 
 
-<br/>
 
 ### 👋 Thanks for visiting! I appreciate it!
