@@ -16,10 +16,9 @@
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
+<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://i.ibb.co/10HwMKW/download.png">
 
 <br/>
-<br></br>
 ### 📊 GitHub Stats
 
 ![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
