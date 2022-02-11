@@ -29,3 +29,11 @@
 
 
 ### 👋 Thanks for visiting! I appreciate it!
+
+<br/>
+
+## 🚀 Reach me:
+
+<a href="mailto:niranjanv849@gmail.com">![niranjanv849@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/niranjanv849/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://t.me/niranjanv849">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
