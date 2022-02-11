@@ -1,20 +1,26 @@
-# Hey there! 👋
+### 👋 Hey there! I'm Niranjan 🚀
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Niranjan849.Niranjan849)](https://github.com/Niranjan849) [![GitHub followers](https://img.shields.io/github/followers/Niranjan849.svg?style=social&label=Follow)](https://github.com/Niranjan849?tab=followers)
+- 🌱 I’m currently learning **Web Development**
+- 👯 I’m looking to collaborate on Interesting Projects
+- 🤔 I’m looking for help with **learning GitHub Actions**
+- 🌐 <a href="https://niranjan-v.web.app">Portfolio</a>
+- 💻 Favourite quote:- "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be" 
 
-## I'm Niranjan V! 🚀
 
----
+### 💻 Languages and Tools
 
-- 💻 I’m currently learning Web Development
-- 🌍 I’m looking to collaborate on open source projects
-- 🚀 Lasy seen: just a min ago
+<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
+<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
+<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
+<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
+<img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
+<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
+<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
+<img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 
-## 👀 GitHub Stats
+<br/>
 
-![Niranjan V's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niranjan849&count_private=true&show_icons=true&include_all_commits=true)
-![Niranjan V's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Niranjan849&count_private=true&show_icons=true&hide=stars&include_all_commits=true)
 
-## 📫 How to reach me:
+### 📊 GitHub Stats
 
-<a href="mailto:niranjanv849@gmail.com">![niranjanv849@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/niranjanv849/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://t.me/niranjanv849">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
