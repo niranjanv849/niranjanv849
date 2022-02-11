@@ -19,8 +19,7 @@
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://bit.ly/3nlY4kZ">
 
 <br/>
-
-
+<br></br>
 ### 📊 GitHub Stats
 
 ![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&hide_border=true)
