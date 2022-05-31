@@ -1,31 +1,38 @@
 ### 👋 Hey there! I'm Niranjan 🚀
 
-- 🌱 I’m currently learning **Web Development**
-- 👯 I’m looking to collaborate on Interesting Projects
-- 🤔 I’m looking for help with **learning GitHub Actions**
+- 💻 Software Developer | UX Designer
+- 👯 Looking forward to collaborate on Interesting Projects
+- 🎯 **Learning GitHub Actions**
 - 🌐 <a href="https://niranjan-v.web.app/">Portfolio</a>
-- 💻 Favourite quote:- "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be" 
+- 🎉 Favourite quote:- "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be" 
 
-
-### 💻 Languages and Tools
-
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
-<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
-<img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
-<img align="left" height="32px" width="32px" alt="Git logo" src="https://bit.ly/34ayuYn">
-<img align="left" height="32px" width="50px" alt="GitHub logo" src="https://i.ibb.co/pKq7CXS/download-removebg-preview.png">
-
+### 💻 Exploring
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <br/>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 <br/>
+
+### 🏆 Progress
+<a href="https://github.com/niranjanv849?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=niranjanv849&column=8&margin-w=15&margin-h=15" alt="niranjanv849"></a>
 
 
 ### 🌵 Github Stats:
 
-![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanv849&theme=radical)](https://git.io/streak-stats) 
+![Niranjan GitHub stats](https://github-readme-stats.vercel.app/api?username=niranjanv849&show_icons=true&theme=dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niranjanv849&theme=dark)](https://git.io/streak-stats) 
 
 
 ### 👋 Thanks for visiting! I appreciate it!
